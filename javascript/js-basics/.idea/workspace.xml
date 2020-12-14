@@ -2,6 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3ccac635-9346-408c-81f6-b8120a984ebc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/css/object-style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/object-style2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/array-of-objects.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/for-in.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/object.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/pets.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -14,8 +20,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
-        <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -26,7 +32,9 @@
     <setting file="file://$PROJECT_DIR$/index.html" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectId" id="1lDMzsIf88Uh8NqdWXO66MxoA9N" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -79,12 +87,24 @@
       <workItem from="1607729063870" duration="629000" />
       <workItem from="1607730783400" duration="3300000" />
       <workItem from="1607813530905" duration="3638000" />
-      <workItem from="1607875330259" duration="7060000" />
+      <workItem from="1607875330259" duration="13644000" />
     </task>
+    <task id="LOCAL-00001" summary="Make index.html generic and add project config files">
+      <created>1607895433609</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607895433609</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Make index.html generic and add project config files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Make index.html generic and add project config files" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
