@@ -1,13 +1,27 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <meta charset="utf-8">
-    <title>Learnin JS and all...</title>
-    <link href="css/object-style2.css" rel="stylesheet">
+    <title>JavaScript and the DOM</title>
+    <link rel="stylesheet" href="css/dom-style.css">
+    <meta charset="UTF-8">
 </head>
 <body>
-<h1>Pet Directory</h1>
-<main></main>
-<script src="js/pets.js"></script>
+<h1 id="myHeading">JavaScript and the DOM</h1>
+<p>Making a web page interactive</p>
+<button id="toggleList">Hide list</button>
+<div class="list">
+    <p class="description">Things that are purple:</p>
+    <input type="text" id="desc" class="description">
+    <button class="description">Change the list description</button>
+    <ul class="list">
+        <li>grapes</li>
+        <li>amethyst</li>
+        <li>lavender</li>
+        <li>plums</li>
+    </ul>
+    <input type="text" class="addItemInput">
+    <button class="addItemButton">Add Item</button>
+</div>
+<script src="js/app4.js"></script>
 </body>
 </html>

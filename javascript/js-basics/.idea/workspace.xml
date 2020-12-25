@@ -2,14 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3ccac635-9346-408c-81f6-b8120a984ebc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/css/object-style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/object-style2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/array-of-objects.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/for-in.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/object.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/pets.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/dom-style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index-dom-challenge.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index-dom.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/app2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/app3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/app4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/temp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/up-to-objects-index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/math-practice.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/math-practice.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,9 +23,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="CSS File" />
         <option value="HTML File" />
         <option value="JavaScript File" />
-        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -29,7 +33,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/index.html" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/js/temp.js" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="1lDMzsIf88Uh8NqdWXO66MxoA9N" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -44,7 +48,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/js" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -52,11 +56,13 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.web.browsers" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/js" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -87,7 +93,23 @@
       <workItem from="1607729063870" duration="629000" />
       <workItem from="1607730783400" duration="3300000" />
       <workItem from="1607813530905" duration="3638000" />
-      <workItem from="1607875330259" duration="13644000" />
+      <workItem from="1607875330259" duration="13778000" />
+      <workItem from="1607910132257" duration="366000" />
+      <workItem from="1607919950687" duration="436000" />
+      <workItem from="1607921673306" duration="1002000" />
+      <workItem from="1607971295320" duration="2862000" />
+      <workItem from="1608008430270" duration="675000" />
+      <workItem from="1608166260461" duration="4822000" />
+      <workItem from="1608243287143" duration="472000" />
+      <workItem from="1608253482938" duration="135000" />
+      <workItem from="1608253629807" duration="1612000" />
+      <workItem from="1608338078072" duration="2103000" />
+      <workItem from="1608654570122" duration="623000" />
+      <workItem from="1608687218744" duration="852000" />
+      <workItem from="1608698295512" duration="79000" />
+      <workItem from="1608698856097" duration="58000" />
+      <workItem from="1608698925129" duration="1533000" />
+      <workItem from="1608735712280" duration="1157000" />
     </task>
     <task id="LOCAL-00001" summary="Make index.html generic and add project config files">
       <created>1607895433609</created>

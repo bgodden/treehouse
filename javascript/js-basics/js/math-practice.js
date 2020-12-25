@@ -1,4 +1,4 @@
-// 1. Attach this file -- math.js -- to the index.html file using a <script> tag
+// 1. Attach this file -- math.js -- to the up-to-objects-index-dom.html file using a <script> tag
 
 // 2. Add an alert to announce the program with a message like "Let's do some math!"
 alert ("Let's do some math!");
