@@ -2,12 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d82008a0-de03-4b9e-82eb-2fbe25d16f18" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/data/employees.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/widget-ref.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
@@ -41,7 +49,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1608959420909</updated>
-      <workItem from="1608959422042" duration="4635000" />
+      <workItem from="1608959422042" duration="4724000" />
+      <workItem from="1609030402896" duration="6707000" />
+      <workItem from="1609094295182" duration="894000" />
+      <workItem from="1609120733000" duration="527000" />
     </task>
     <task id="LOCAL-00001" summary="Add new files and code">
       <created>1608964329925</created>
@@ -66,6 +77,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add new files and code" />
