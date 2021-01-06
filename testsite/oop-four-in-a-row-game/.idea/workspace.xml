@@ -1,18 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d1103013-d237-4d81-bae7-b5d9b41c3820" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../oop-four-in-a-row-game/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oop-four-in-a-row-game/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oop-four-in-a-row-game/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oop-four-in-a-row-game/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oop-four-in-a-row-game/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oop-four-in-a-row-game/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oop-four-in-a-row-game/js/Board.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oop-four-in-a-row-game/js/Game.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oop-four-in-a-row-game/js/Player.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oop-four-in-a-row-game/js/Space.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oop-four-in-a-row-game/js/Token.js" afterDir="false" />
+    <list default="true" id="48e76abd-e481-4943-8f64-4cf76e5788b7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../downloaded_projects/ObjectOrientedJavaScriptByExample/Stage5 - Adding the Game Logic/Stage5Step10 - Game Logic Methods Solution/js/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../downloaded_projects/ObjectOrientedJavaScriptByExample/Stage5 - Adding the Game Logic/Stage5Step10 - Game Logic Methods Solution/js/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/Board.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/Game.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/Player.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/Space.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/Token.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ObjectOrientedJavaScriptByExample/Final Complete Project/css/style.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../ObjectOrientedJavaScriptByExample/Final Complete Project/index.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../ObjectOrientedJavaScriptByExample/Final Complete Project/js/Board.js" beforeDir="false" />
@@ -353,7 +356,7 @@
       <change beforePath="$PROJECT_DIR$/../ObjectOrientedJavaScriptByExample/Stage5 - Adding the Game Logic/Stage5Step9 - Build the updateGameState() Method/js/Space.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../ObjectOrientedJavaScriptByExample/Stage5 - Adding the Game Logic/Stage5Step9 - Build the updateGameState() Method/js/Token.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../ObjectOrientedJavaScriptByExample/Stage5 - Adding the Game Logic/Stage5Step9 - Build the updateGameState() Method/js/app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop-project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../oop-project/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -370,7 +373,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectId" id="1mRngTEKUN8G6Azm69Gwtf64zI8" />
+  <component name="ProjectId" id="1mUuceGBBKsKE21WtdYYyM2Thk2" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -379,10 +382,10 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Markdown" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -393,21 +396,17 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-    </key>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d1103013-d237-4d81-bae7-b5d9b41c3820" name="Default Changelist" comment="" />
-      <created>1609465382170</created>
+      <changelist id="48e76abd-e481-4943-8f64-4cf76e5788b7" name="Default Changelist" comment="" />
+      <created>1609560571448</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1609465382170</updated>
-      <workItem from="1609465383327" duration="8230000" />
-      <workItem from="1609559498411" duration="2076000" />
+      <updated>1609560571448</updated>
+      <workItem from="1609560572668" duration="10185000" />
+      <workItem from="1609650008212" duration="14359000" />
+      <workItem from="1609795018321" duration="8030000" />
     </task>
     <servers />
   </component>
