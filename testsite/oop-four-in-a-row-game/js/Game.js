@@ -135,7 +135,9 @@ class Game {
      */
     switchPlayers() {
         for(let player of this.players) {
+            console.log(`Current player before: ${player.name}`);
             player.active = player.active === true ? false : true;
+            console.log(`Current player after: ${player.name}`);
         }
     }
 

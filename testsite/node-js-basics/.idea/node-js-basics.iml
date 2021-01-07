@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$USER_HOME$/projects/treehouse/testsite/node-js-basics">
+      <excludeFolder url="file://$USER_HOME$/projects/treehouse/testsite/node-js-basics/temp" />
+      <excludeFolder url="file://$USER_HOME$/projects/treehouse/testsite/node-js-basics/.tmp" />
+      <excludeFolder url="file://$USER_HOME$/projects/treehouse/testsite/node-js-basics/tmp" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
